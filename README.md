@@ -24,6 +24,8 @@ Create an HTML and CSS-based application that introduces yourself and includes t
     A fun fact about yourself that will help your classmates remember you
 ```
 
+This is provided only as background. No action is needed on your part yet. 
+
 ## ChatGPT responded with:
 As an AI, I don't have personal information such as a name, job title, or hobbies. However, I can create a template based on your 
 request. You can fill in your personal details where necessary. Below is a basic HTML and CSS code to create a webpage introducing 
