@@ -89,6 +89,9 @@ You can replace the placeholders (like [Your Full Name]) with your personal info
 ## The next prompt given to ChatGPT was:
 Describe how to use GitHub pages to deploy an introductions website using a GitHub repository as a template.
 
+[[This prompt was followed up by:]]
+Move and renumber step 3 so that it is actually step 2.
+
 ## ChatGPT responded with:
 # Deploying a Project Site on GitHub Pages Using a Template Repository
 
@@ -105,19 +108,7 @@ Describe how to use GitHub pages to deploy an introductions website using a GitH
 - Choose whether your repository should be public or private.
 - Click "Create repository from template".
 
-## Step 2: Customize Your Website
-
-### Clone the Repository
-- Clone the new repository to your local machine using Git.
-
-### Modify the Content
-- Edit the files to add your personal information, images, and any other content.
-- The main file for editing is likely `index.html`.
-
-### Commit and Push Changes
-- Commit your changes and push them back to your GitHub repository.
-
-## Step 3: Enable GitHub Pages
+## Step 2: Enable GitHub Pages
 
 ### Repository Settings
 - Go to your GitHub repository in a web browser.
@@ -128,6 +119,18 @@ Describe how to use GitHub pages to deploy an introductions website using a GitH
 ### Source Selection
 - Under "Source", select the branch you want to publish (usually `main` or `master`).
 - Click "Save" to activate GitHub Pages.
+
+## Step 3: Customize Your Website
+
+### Clone the Repository
+- Clone the new repository to your local machine using Git.
+
+### Modify the Content
+- Edit the files to add your personal information, images, and any other content.
+- The main file for editing is likely `index.html`.
+
+### Commit and Push Changes
+- Commit your changes and push them back to your GitHub repository.
 
 ## Step 4: Accessing Your Website
 
