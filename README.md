@@ -90,6 +90,7 @@ You can replace the placeholders (like [Your Full Name]) with your personal info
 Describe how to use GitHub pages to deploy an introductions website.
 
 ## ChatGPT responded with:
+```
 Deploying an introductory website using GitHub Pages is a straightforward process. GitHub Pages allows you to host a website directly from a GitHub repository. Here's a step-by-step guide to get your introduction website live:
 
 1. Create a GitHub Account
@@ -121,4 +122,5 @@ Additional Notes
 GitHub Pages only supports static websites (HTML, CSS, and JavaScript). Server-side code (like PHP or Python) won't run.
 Your website is public, and the source code is visible to anyone.
 GitHub Pages is an excellent option for hosting simple personal, project, or portfolio websites. It's free and relatively easy to use, especially if you're already familiar with Git and GitHub.
+```
 
