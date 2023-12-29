@@ -2,7 +2,7 @@
 This repository was created by Eric Pogue and ChatGPT to be a template to create an "Introductions" website. 
 
 ## The prompt given to ChatGPT was:
-Create a html and css based application that introduces yourself and include the following items:
+Create an HTML and CSS-based application that introduces yourself and includes the following items:
     Your first and last name
     The name that you would prefer to be called if that is different from your first name
     Your current or most recent job title
