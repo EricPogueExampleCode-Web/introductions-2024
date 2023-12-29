@@ -15,7 +15,8 @@ Create a html and css based application that introduces yourself and include the
 ## ChatGPT responded with:
 As an AI, I don't have personal information such as a name, job title, or hobbies. However, I can create a template based on your request. You can fill in your personal details where necessary. Below is a basic HTML and CSS code to create a webpage introducing yourself:
 
-<!DOCTYPE html>
+
+```<!DOCTYPE html>
 <html>
 <head>
     <title>About Me</title>
@@ -79,6 +80,6 @@ As an AI, I don't have personal information such as a name, job title, or hobbie
         </section>
     </div>
 </body>
-</html>
+</html>```
 
 You can replace the placeholders (like [Your Full Name]) with your personal information. This code provides a simple web page with sections for each of the items you've listed. The CSS is basic, providing a clean and readable layout. You can further customize the style and layout to fit your preferences.
