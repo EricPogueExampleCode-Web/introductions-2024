@@ -105,6 +105,8 @@ repository along with adding this README.md file and a MIT LICENSE file.
 Note that the initial prompt was challenging to craft and required several iterations before ChatGPT responded with a
 solid response. 
 
+Did you notice the ChatGPT failed to style the “Fun Fact” section. Can you fix that?
+
 # ChatGPT Prompt Number 2
 The next prompt directed at ChatGPT occurred in three parts and included:
 1. Describe how to use GitHub pages to deploy an introductions website using a GitHub repository as a template.
