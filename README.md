@@ -1,9 +1,9 @@
 # Introductions (2024)
-This GitHub repository was created by Eric Pogue and ChatGPT to be a template to create an "Introductions" website. 
+This GitHub repository was created by Eric Pogue and ChatGPT to be a template for creating an "Introductions" website. 
 
 # Activity / Assignment
-Follow the instructions below to create your own personal Introductions webpage. As always, be careful about sharing 
-personal or confidential information. 
+Follow the instructions below to create your own personal Introductions webpage using GitHub Pages. As always, be careful 
+about sharing confidential information. 
 
 # The initial prompt given to ChatGPT was:
 ```
