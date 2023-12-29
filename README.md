@@ -18,8 +18,10 @@ Create an HTML and CSS-based application that introduces yourself and includes t
     A fun fact about yourself that will help your classmates remember you
 ```
 
-# ChatGPT responded with:
-As an AI, I don't have personal information such as a name, job title, or hobbies. However, I can create a template based on your request. You can fill in your personal details where necessary. Below is a basic HTML and CSS code to create a webpage introducing yourself:
+## ChatGPT responded with:
+As an AI, I don't have personal information such as a name, job title, or hobbies. However, I can create a template based on your 
+request. You can fill in your personal details where necessary. Below is a basic HTML and CSS code to create a webpage introducing 
+yourself:
 ```
 <!DOCTYPE html>
 <html>
@@ -90,7 +92,7 @@ As an AI, I don't have personal information such as a name, job title, or hobbie
 
 You can replace the placeholders (like [Your Full Name]) with your personal information. This code provides a simple web page with sections for each of the items you've listed. The CSS is basic, providing a clean and readable layout. You can further customize the style and layout to fit your preferences.
 
-# Eric’s Comments:
+## Eric’s Comments:
 Wow. I’m impressed with ChatGPT’s response. I have taken the generated code and added it to this template GitHub 
 repository along with adding this README.md file and a MIT LICENSE file. 
 
@@ -105,7 +107,7 @@ solid response.
 Note that editing the file on GitHub (instead of cloning them and editing them locally) is “wrong” in software 
 development. However, we are doing it here for simplicity. 
 
-# After all three prompts, ChatGPT responded with:
+## After all three prompts, ChatGPT responded with:
 Certainly! Here's the updated guide where the code changes are made directly within GitHub, without cloning the repository:
 
 ## Deploying a Project Site on GitHub Pages Using a Template Repository
@@ -166,3 +168,7 @@ Certainly! Here's the updated guide where the code changes are made directly wit
 In this updated guide, the customization of the website is done through GitHub's web interface, eliminating the need 
 to clone the repository locally. This approach is straightforward and convenient for making quick edits or for users 
 less familiar with Git.
+
+## Eric’s Comments
+It took quite a lot of time to craft the ChatGPT prompts, but I like the resulting instructions. Note that this 
+repository is the GitHub template repository that you should use in the instructions above. 
