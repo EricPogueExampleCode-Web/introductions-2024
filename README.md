@@ -1,7 +1,12 @@
-# introductions-2024
-This repository was created by Eric Pogue and ChatGPT to be a template to create an "Introductions" website. 
+# Introductions (2024)
+This GitHub repository was created by Eric Pogue and ChatGPT to be a template to create an "Introductions" website. 
 
-## The prompt given to ChatGPT was:
+# Activity / Assignment
+Follow the instructions below to create your own personal Introductions webpage. As always, be careful about sharing 
+personal or confidential information. 
+
+# The initial prompt given to ChatGPT was:
+```
 Create an HTML and CSS-based application that introduces yourself and includes the following items:
     Your first and last name
     The name that you would prefer to be called if that is different from your first name
@@ -11,11 +16,10 @@ Create an HTML and CSS-based application that introduces yourself and includes t
     Your reasons for pursuing this degree
     Your reasons for taking this course
     A fun fact about yourself that will help your classmates remember you
+```
 
-## ChatGPT responded with:
+# ChatGPT responded with:
 As an AI, I don't have personal information such as a name, job title, or hobbies. However, I can create a template based on your request. You can fill in your personal details where necessary. Below is a basic HTML and CSS code to create a webpage introducing yourself:
-
-
 ```
 <!DOCTYPE html>
 <html>
@@ -86,67 +90,79 @@ As an AI, I don't have personal information such as a name, job title, or hobbie
 
 You can replace the placeholders (like [Your Full Name]) with your personal information. This code provides a simple web page with sections for each of the items you've listed. The CSS is basic, providing a clean and readable layout. You can further customize the style and layout to fit your preferences.
 
-## The next prompts given to ChatGPT was:
+# Eric’s Comments:
+Wow. I’m impressed with ChatGPT’s response. I have taken the generated code and added it to this template GitHub 
+repository along with adding this README.md file and a MIT LICENSE file. 
+
+Note that the initial prompt was challenging to craft and required several iterations before ChatGPT responded with a
+solid response. 
+
+# The next prompt directed at ChatGPT occurred in three parts and included:
 - Describe how to use GitHub pages to deploy an introductions website using a GitHub repository as a template.
 - Move and renumber step 3 so that it is actually step 2.
 - Update the instructions so that we make the code changes within GitHub instead of by cloning the repository.
 
-## ChatGPT responded with:
+Note that editing the file on GitHub (instead of cloning them and editing them locally) is “wrong” in software 
+development. However, we are doing it here for simplicity. 
 
+# After all three prompts, ChatGPT responded with:
 Certainly! Here's the updated guide where the code changes are made directly within GitHub, without cloning the repository:
-# Deploying a Project Site on GitHub Pages Using a Template Repository
 
-## Step 1: Find and Use a Template Repository
+## Deploying a Project Site on GitHub Pages Using a Template Repository
 
-### Search for a Template
+### Step 1: Find and Use a Template Repository
+
+#### Search for a Template
 - Go to GitHub and find a repository that's set up as a template for an introductions website or a similar project.
 - Look for repositories with a "template" badge.
 
-### Create a New Repository from the Template
+#### Create a New Repository from the Template
 - Click on the "Use this template" button on the template repository's page.
 - Name your repository.
 - Optionally, add a description.
 - Choose whether your repository should be public or private.
 - Click "Create repository from template".
 
-## Step 2: Enable GitHub Pages
+### Step 2: Enable GitHub Pages
 
-### Repository Settings
+#### Repository Settings
 - Go to your GitHub repository in a web browser.
 - Click on the "Settings" tab, then scroll down to the "GitHub Pages" section.
 
-### Source Selection
+#### Source Selection
 - Under "Source", select the branch you want to publish (usually `main` or `master`).
 - Click "Save" to activate GitHub Pages.
 
-## Step 3: Customize Your Website Directly on GitHub
+### Step 3: Customize Your Website Directly on GitHub
 
-### Edit Files on GitHub
+#### Edit Files on GitHub
 - Navigate to your repository's main page on GitHub.
 - Locate the `index.html` file or other files you wish to edit.
 - Click on the file to view it, then click the pencil icon (Edit this file) in the top right to start editing.
 
-### Make and Commit Changes
+#### Make and Commit Changes
 - After making your changes in the web editor, scroll down to the "Commit changes" section.
 - Enter a commit message that describes your changes.
 - Choose to commit directly to the main branch.
 - Click "Commit changes".
 
-## Step 4: Accessing Your Website
+### Step 4: Accessing Your Website
 
 - Your project site will be available at `https://[username].github.io/[repository-name]/`.
 - Replace `[username]` with your GitHub username and `[repository-name]` with your repository name.
 - It may take a few minutes for the site to go live. If it's not immediately available, wait a bit and then refresh.
 
-## Step 5: Update Your Site
+### Step 5: Update Your Site
 
 - To update your site, repeat the process in Step 3: edit files and commit changes directly on GitHub.
 - GitHub Pages will automatically update your site with these changes.
 
-## Additional Notes
+### Additional Notes
 
 - GitHub Pages supports only static content.
 - Public repositories mean all source code is publicly visible.
 - For more advanced features like custom domains or Jekyll themes, refer to the GitHub Pages documentation.
 
-In this updated guide, the customization of the website is done through GitHub's web interface, eliminating the need to clone the repository locally. This approach is straightforward and convenient for making quick edits or for users less familiar with Git.
+In this updated guide, the customization of the website is done through GitHub's web interface, eliminating the need 
+to clone the repository locally. This approach is straightforward and convenient for making quick edits or for users 
+less familiar with Git.
