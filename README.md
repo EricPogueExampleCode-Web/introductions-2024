@@ -1,7 +1,7 @@
 # Introductions (2024)
-This GitHub repository was created by Eric Pogue and ChatGPT to be a template for creating an "Introductions" website. 
+This repository was created by Eric Pogue and ChatGPT to be a template for creating an "Introductions" website. 
 
-There is an additional related [Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
+There is a related [Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
 video tutorial that I created for the Lewis University ”Introduction to Computer Science” class that might be helpful
 as well. 
 
