@@ -98,9 +98,9 @@ Note that the initial prompt was challenging to craft and required several itera
 solid response. 
 
 # The next prompt directed at ChatGPT occurred in three parts and included:
-1 Describe how to use GitHub pages to deploy an introductions website using a GitHub repository as a template.
-2 Move and renumber step 3 so that it is step 2.
-3 Update the instructions so that we make the code changes within GitHub instead of by cloning the repository.
+1. Describe how to use GitHub pages to deploy an introductions website using a GitHub repository as a template.
+2. Move and renumber step 3 so that it is step 2.
+3. Update the instructions so that we make the code changes within GitHub instead of by cloning the repository.
 
 Note that editing the file on GitHub (instead of cloning them and editing them locally) is “wrong” in software 
 development. However, we are doing it here for simplicity. 
