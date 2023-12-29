@@ -11,7 +11,9 @@ about sharing confidential information.
 
 ---
 
-# The initial prompt given to ChatGPT was:
+# Background
+
+## The initial prompt given to ChatGPT was:
 ```
 Create an HTML and CSS-based application that introduces yourself and includes the following items:
     Your first and last name
@@ -104,18 +106,18 @@ You can further customize the style and layout to fit your preferences.
 
 ## Eric’s Comments:
 Wow. I’m impressed with ChatGPT’s response. I have taken the generated code and added it to this template GitHub 
-repository along with adding this README.md file and a MIT LICENSE file. 
+repository along with adding this README.md file and an MIT LICENSE file. 
 
 Note that the initial prompt was challenging to craft and required several iterations before ChatGPT responded with a
 solid response. 
 
-Did you notice the ChatGPT failed to style the “Fun Fact” section. Can you fix that?
+Did you notice that ChatGPT failed to style the “Fun Fact” section? Can you fix that?
 
-# ChatGPT Prompt Number 2
+# Second ChatGPT Prompt Requesting Instructions
 The next prompt directed at ChatGPT occurred in three parts and included:
 1. Describe how to use GitHub pages to deploy an introductions website using a GitHub repository as a template.
 2. Move and renumber step 3 so that it is step 2.
-3. Update the instructions so that we make the code changes within GitHub instead of by cloning the repository.
+3. Update the instructions so that we make the code changes within GitHub instead of cloning the repository.
 
 Note that editing the file on GitHub (instead of cloning them and editing them locally) is “wrong” in software 
 development. However, we are doing it here for simplicity. 
