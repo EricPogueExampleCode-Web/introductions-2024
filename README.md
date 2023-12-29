@@ -85,3 +85,40 @@ As an AI, I don't have personal information such as a name, job title, or hobbie
 ```
 
 You can replace the placeholders (like [Your Full Name]) with your personal information. This code provides a simple web page with sections for each of the items you've listed. The CSS is basic, providing a clean and readable layout. You can further customize the style and layout to fit your preferences.
+
+##The next prompt given to ChatGPT was:
+Describe how to use GitHub pages to deploy an introductions website.
+
+## ChatGPT responded with:
+Deploying an introductory website using GitHub Pages is a straightforward process. GitHub Pages allows you to host a website directly from a GitHub repository. Here's a step-by-step guide to get your introduction website live:
+
+1. Create a GitHub Account
+If you don't already have a GitHub account, go to GitHub and sign up.
+
+2. Create a New Repository
+After logging in, click the "+" icon in the upper-right corner and select "New repository".
+Name your repository. For a user site, the repository must be named [username].github.io where [username] is your GitHub username. For a project site, it can be any name.
+Choose if you want the repository to be public (anyone can see) or private (only you can access).
+Initialize the repository with a README file (optional).
+Click "Create repository".
+3. Add Your Website Files
+Clone the repository to your computer using Git, or use the GitHub interface to upload files.
+Add your HTML, CSS, and any other files that make up your website. At least one file should be named index.html as it will be the entry point of your site.
+Commit and push your changes if you're using Git.
+4. Enable GitHub Pages
+Go to your repository on GitHub.
+Click on the "Settings" tab.
+Scroll down to the "GitHub Pages" section.
+Under "Source", select the branch you want to deploy (usually main or master).
+Click "Save", and GitHub Pages will be activated.
+5. Accessing Your Website
+Once GitHub Pages is enabled, your site will be available at https://[username].github.io (for a user site) or https://[username].github.io/[repository] (for a project site).
+It may take a few minutes for your site to be live. Refresh the page after a short while if it doesn't appear immediately.
+6. Customizing and Updating
+To update your site, simply make changes to your files and push them to the GitHub repository. GitHub Pages will automatically update your site.
+You can also customize your domain, use Jekyll for blogging, or add custom 404 pages. Check the GitHub Pages documentation for more advanced features.
+Additional Notes
+GitHub Pages only supports static websites (HTML, CSS, and JavaScript). Server-side code (like PHP or Python) won't run.
+Your website is public, and the source code is visible to anyone.
+GitHub Pages is an excellent option for hosting simple personal, project, or portfolio websites. It's free and relatively easy to use, especially if you're already familiar with Git and GitHub.
+
