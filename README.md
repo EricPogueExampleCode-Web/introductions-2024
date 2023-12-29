@@ -143,6 +143,8 @@ By following these steps, you can quickly set up a personal introductory website
 ```
 
 ## Chat GPT responded with new:
+```
+
 Deploying a project site on GitHub Pages using a repository template involves several clear steps. Here's a guide to get your introduction website up and running:
 
 ### Step 1: Find and Use a Template Repository
@@ -191,3 +193,4 @@ Deploying a project site on GitHub Pages using a repository template involves se
 - For more advanced features, like adding a custom domain or setting up a Jekyll theme, refer to the GitHub Pages documentation.
 
 By following these steps, you can quickly deploy a personal introduction website using a template repository on GitHub Pages, making it an ideal platform for showcasing your profile, portfolio, or similar projects.
+```
