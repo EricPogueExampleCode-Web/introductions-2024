@@ -115,12 +115,14 @@ Did you notice that ChatGPT failed to style the “Fun Fact” section? Can you 
 
 # Second ChatGPT Prompt Requesting Instructions
 The next prompt directed at ChatGPT occurred in three parts and included:
-1. Describe how to use GitHub pages to deploy an introductions website using a GitHub repository as a template.
-2. Move and renumber step 3 so that it is step 2.
+1. Describe how to use GitHub Pages to deploy an introductions website using a GitHub repository as a template.
+2. Move and renumber step 3 so that it is step 2. 
 3. Update the instructions so that we make the code changes within GitHub instead of cloning the repository.
 
 Note that editing the file on GitHub (instead of cloning them and editing them locally) is “wrong” in software 
-development. However, we are doing it here for simplicity. 
+development. However, we are doing it here for simplicity. Also, note that I am a firm believer in CI/CD so it
+was important to me that GitHub Pages hosting (step 3 initially) occurred before updating the code (step 2
+initially).
 
 ## After all three prompts, ChatGPT responded with:
 Certainly! Here's the updated guide where the code changes are made directly within GitHub, without cloning the repository:
