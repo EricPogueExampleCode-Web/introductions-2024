@@ -90,7 +90,9 @@ yourself:
 </html>
 ```
 
-You can replace the placeholders (like [Your Full Name]) with your personal information. This code provides a simple web page with sections for each of the items you've listed. The CSS is basic, providing a clean and readable layout. You can further customize the style and layout to fit your preferences.
+You can replace the placeholders (like [Your Full Name]) with your personal information. This code provides a simple 
+web page with sections for each of the items you've listed. The CSS is basic, providing a clean and readable layout. 
+You can further customize the style and layout to fit your preferences.
 
 ## Eric’s Comments:
 Wow. I’m impressed with ChatGPT’s response. I have taken the generated code and added it to this template GitHub 
@@ -99,7 +101,8 @@ repository along with adding this README.md file and a MIT LICENSE file.
 Note that the initial prompt was challenging to craft and required several iterations before ChatGPT responded with a
 solid response. 
 
-# The next prompt directed at ChatGPT occurred in three parts and included:
+# ChatGPT Prompt Number 2
+The next prompt directed at ChatGPT occurred in three parts and included:
 1. Describe how to use GitHub pages to deploy an introductions website using a GitHub repository as a template.
 2. Move and renumber step 3 so that it is step 2.
 3. Update the instructions so that we make the code changes within GitHub instead of by cloning the repository.
