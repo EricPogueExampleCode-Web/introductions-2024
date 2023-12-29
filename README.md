@@ -9,6 +9,8 @@ as well.
 Follow the instructions below to create your own personal Introductions webpage using GitHub Pages. As always, be careful 
 about sharing confidential information. 
 
+---
+
 # The initial prompt given to ChatGPT was:
 ```
 Create an HTML and CSS-based application that introduces yourself and includes the following items:
