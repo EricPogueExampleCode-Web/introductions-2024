@@ -1,9 +1,9 @@
-# Introductions (2025)
+# Introductions (2026)
 Eric Pogue and ChatGPT created this repository as a template for an "Introductions" website.
 
 Additional GitHub Page information can be found at [GitHub Pages](https://pages.github.com/). Also, there is a 5-minute 
 [Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
-video tutorial that was created for the Lewis University ”Introduction to Computer Science” class that might be helpful. 
+video tutorialthat might be helpful. 
 
 # Activity / Assignment
 Follow the instructions below to create your own Introductions webpage using GitHub Pages. As always, be careful 
@@ -11,27 +11,11 @@ about sharing confidential information.
 
 ---
 
-# Background
+# Instructions
+After utilizing the template to create your website, your index.html file will look like:
 
-## The initial prompt given to ChatGPT was:
-```
-Create an HTML and CSS-based application that introduces yourself and includes the following items:
-    Your first and last name
-    The name that you would prefer to be called if that is different from your first name
-    Your current or most recent job title
-    A summary of your current or most recent job responsibilities
-    Your hobbies or special interests
-    Your reasons for pursuing this degree
-    Your reasons for taking this course
-    A fun fact about yourself that will help your classmates remember you
-```
-
-This is provided only as background. No action is needed on your part yet. 
-
-## ChatGPT responded with:
-As an AI, I don't have personal information such as a name, job title, or hobbies. However, I can create a template based on your 
-request. You can fill in your details where necessary. Below is a basic HTML and CSS code to create a webpage introducing 
-yourself:
+Step 1: Utilize this repository as a template to create your GitHub repository named "introductions" (all lower case). After utilizing the template to create your 
+website, your index.html file will look like:
 ```
 <!DOCTYPE html>
 <html>
@@ -100,34 +84,12 @@ yourself:
 </html>
 ```
 
-You can replace the placeholders (like [Your Full Name]) with your personal information. This code provides a simple 
-web page with sections for each of the items you've listed. The CSS is basic, providing a clean and readable layout. 
-You can further customize the style and layout to fit your preferences.
+Step 2: Replace each of the placeholders (like [Your Full Name]) with your personal information. Replace the "[" and "]" as well.  
 
-## Eric’s Comments:
-Wow. I’m impressed with ChatGPT’s response. I have taken the generated code and added it to this template GitHub 
-repository along with adding this README.md file and an MIT LICENSE file. 
+## Next steps:
+Did you notice that the template fails to style the “Fun Fact” section? Can you fix that?
 
-Note that the initial prompt was challenging to craft and required several iterations before ChatGPT responded with a
-solid response. 
 
-Did you notice that ChatGPT failed to style the “Fun Fact” section? Can you fix that?
-
-# Second ChatGPT Prompt Requesting Instructions
-The next prompt directed at ChatGPT occurred in three parts and included:
-1. Describe how to use GitHub Pages to deploy an introductions website using a GitHub repository as a template.
-2. Move and renumber step 3 so that it is step 2. 
-3. Update the instructions so that we make the code changes within GitHub instead of cloning the repository.
-
-Note that editing the file on GitHub (instead of cloning them and editing them locally) is “wrong” in software 
-development. However, we are doing it here for simplicity. Also, note that I am a firm believer in CI/CD so it
-was important to me that GitHub Pages hosting (step 3 initially) occurred before updating the code (step 2
-initially).
-
-## After all three prompts, ChatGPT responded with:
-Certainly! Here's the updated guide where the code changes are made directly within GitHub, without cloning the repository:
-
-## Deploying a Project Site on GitHub Pages Using a Template Repository
 
 ### Step 1: Find and Use a Template Repository
 
@@ -180,17 +142,6 @@ Certainly! Here's the updated guide where the code changes are made directly wit
 
 - GitHub Pages supports only static content.
 - Public repositories mean all source code is publicly visible.
-- For more advanced features like custom domains or Jekyll themes, refer to the GitHub Pages documentation.
-
-In this updated guide, the customization of the website is done through GitHub's web interface, eliminating the need 
-to clone the repository locally. This approach is straightforward and convenient for making quick edits or for users 
-less familiar with Git.
-
-## Eric’s Comments
-It took quite a lot of time to craft the ChatGPT prompts, but I like the resulting instructions. Note that this 
-repository is the GitHub template repository that you should use in the instructions above. 
-
-There should also be a step 6. ChatGPT did not know that I added a README.md file.
 
 ### Step 6: Update README.md File
 
