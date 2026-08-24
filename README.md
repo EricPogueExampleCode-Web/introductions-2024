@@ -1,4 +1,4 @@
-# Introductions (2026)
+# Introductions
 Follow the instructions below to create your own Introductions webpage using GitHub Pages. 
 
 ### Prerequisites
@@ -9,11 +9,11 @@ Follow the instructions below to create your own Introductions webpage using Git
 ##### Step 1: Log into your GitHub account in a separate browser tab
 
 ##### Step 2: Utilize this repository as a template to create a new repository in your GitHub account named “introductions”:
-- Click on the "Use this template" button on the template repository’s page.
-- Name your repository “introductions” (all lower case).
-- Optionally, add a description.
-- Verify your new repository is public.
-- Click "Create repository from template".
+- Click on the "Use this template" button on the template repository’s page
+- Name your repository “introductions” (all lower case)
+- Optionally, add a description
+- Verify your new repository is public
+- Click "Create repository from template"
 
 ##### Step 3: Verify that your newly created repository includes a fine named “index.html” that looks like
 ```
@@ -84,19 +84,7 @@ Follow the instructions below to create your own Introductions webpage using Git
 </html>
 ```
 
-Step 3: Replace “[Your Full Name]” with your full name. For example, I would replace “[Your Full Name]” with “Eric Pogue”. Notice that you should also remove the "[" and "]" symbols.
-
-
-Step 4: Replace “[Your Preferred Name]” with your preferred name. For example, I would replace “[Your Preferred Name]” with “Eric”
-Step 
-
-## Next steps:
-Did you notice that the template fails to style the “Fun Fact” section? Can you fix that?
-
-
-
-
-### Step 2: Enable GitHub Pages
+### Step 2: Publish your website with GitHub Pages
 
 #### Repository Settings
 - Go to your GitHub repository in a web browser.
@@ -105,6 +93,31 @@ Did you notice that the template fails to style the “Fun Fact” section? Can 
 #### Source Selection
 - Under "Source", select the branch you want to publish (usually `main` or `master`).
 - Click "Save" to activate GitHub Pages.
+
+### Step 4: Test Your Website
+- Your project site will be available at `https://[username].github.io/[repository-name]/`.
+- For example, my website would be available at `https://ericjpogue.github.io/introductions`.
+- Replace `[username]` with your GitHub username and `[repository-name]` with your repository name.
+- It may take a few minutes for the site to go live. If it's not immediately available, wait a bit and then refresh.
+
+
+Step 3: Replace “[Your Full Name]” with your full name:
+- For example, I would replace “[Your Full Name]” with “Eric Pogue” (Notice that you should also remove the "[" and "]" symbols)
+- Navigate to your repository's main page on GitHub.
+- Locate the `index.html` file or other files you wish to edit.
+- Click on the file to view it, then click the pencil icon (Edit this file) in the top right to start editing.
+
+Step 4: Replace “[Your Preferred Name]” with your preferred name. 
+
+
+
+## Next steps:
+Did you notice that the template fails to style the “Fun Fact” section? Can you fix that?
+
+
+
+
+
 
 ### Step 3: Customize Your Website Directly on GitHub
 
