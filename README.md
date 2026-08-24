@@ -1,21 +1,17 @@
 # Introductions (2026)
-Eric Pogue and ChatGPT created this repository as a template for an "Introductions" website.
+Eric Pogue with the help of ChatGPT created this repository as a template for your "Introductions" website.
 
 Additional GitHub Page information can be found at [GitHub Pages](https://pages.github.com/). Also, there is a 5-minute 
 [Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
-video tutorialthat might be helpful. 
+video tutorial that your might be helpful. 
 
-# Activity / Assignment
-Follow the instructions below to create your own Introductions webpage using GitHub Pages. As always, be careful 
-about sharing confidential information. 
-
+# Activity: Follow the instructions below to create your own Introductions webpage using GitHub Pages. 
 ---
 
 # Instructions
-After utilizing the template to create your website, your index.html file will look like:
+### Step 1: Utilize this repository as a template to create your repository named “introductions” (all lower case).
 
-Step 1: Utilize this repository as a template to create your GitHub repository named "introductions" (all lower case). After utilizing the template to create your 
-website, your index.html file will look like:
+### Step 2: Your newly created repository includes a fine named “index.html” that looks like
 ```
 <!DOCTYPE html>
 <html>
