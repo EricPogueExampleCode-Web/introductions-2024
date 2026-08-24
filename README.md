@@ -91,7 +91,7 @@ Follow the instructions below to create your own Introductions webpage using Git
 - Click on the "Settings" tab, then scroll down to the "GitHub Pages" section.
 
 #### Source Selection
-- Under "Source", select the branch you want to publish (usually `main` or `master`).
+- Under "Source", select the branch to publish (usually `main` or `master`).
 - Click "Save" to activate GitHub Pages.
 
 ### Step 4: Test Your Website
