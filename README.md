@@ -6,16 +6,16 @@ Follow the instructions below to create your own Introductions webpage using Git
 - An interest in HTML and CSS
 
 ### Instructions
-##### Step 1: Log into your GitHub account in a separate browser tab
+##### Step 1: 
+- Keep this page open.
+- Log into your GitHub account in a separate browser tab.
 
 ##### Step 2: Utilize this repository as a template to create a new repository in your GitHub account named “introductions”:
-- Click on the "Use this template" button on the template repository’s page
-- Name your repository “introductions” (all lower case)
-- Optionally, add a description
-- Verify your new repository is public
-- Click "Create repository from template"
+- Click on the "Use this template" button on the template repository’s page.
+- Name your repository “introductions” (all lower case).
+- Verify your new repository is public.
 
-##### Step 3: Verify that your newly created repository includes a fine named “index.html” that looks like
+##### Step 3: Verify that your newly created repository includes a file named “index.html” that looks like
 ```
 <!DOCTYPE html>
 <html>
@@ -96,8 +96,8 @@ Follow the instructions below to create your own Introductions webpage using Git
 
 ### Step 4: Test Your Website
 - Your project site will be available at `https://[username].github.io/[repository-name]/`.
-- For example, my website would be available at `https://ericjpogue.github.io/introductions`.
-- Replace `[username]` with your GitHub username and `[repository-name]` with your repository name.
+- For example, my website would be available at `https://ericjpogue.github.io/introductions/`.
+- Replace `[username]` with your GitHub username and `[repository-name]` with your repository name (”introductions”).
 - It may take a few minutes for the site to go live. If it's not immediately available, wait a bit and then refresh.
 
 
