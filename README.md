@@ -1,15 +1,8 @@
 # Introductions (2026)
-Eric Pogue with the help of ChatGPT created this repository as a template for your "Introductions" website.
+Follow the instructions below to create your own Introductions webpage using GitHub Pages. 
 
-Additional GitHub Page information can be found at [GitHub Pages](https://pages.github.com/). Also, there is a 5-minute 
-[Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
-video tutorial that your might be helpful. 
-
-# Activity: Follow the instructions below to create your own Introductions webpage using GitHub Pages. 
----
-
-# Instructions
-### Step 1: Utilize this repository as a template to create your repository named “introductions” (all lower case).
+### Instructions
+##### Step 1: Utilize this repository as a template to create your repository named “introductions” (all lower case).
 
 ### Step 2: Your newly created repository includes a fine named “index.html” that looks like
 ```
@@ -142,5 +135,15 @@ Did you notice that the template fails to style the “Fun Fact” section? Can 
 ### Step 6: Update README.md File
 
 - Remove all of the text in your README.md file.
+
+### Credits:
+Eric Pogue with the help of ChatGPT created this repository as a template for your "Introductions" website.
 - Add your application name and add yourself as the Author.
 - Add credits for Eric Pogue, ChatGPT, and for this site where you utilized the template.
+
+
+Eric Pogue with the help of ChatGPT created this repository as a template for your "Introductions" website.
+
+Additional GitHub Page information can be found at [GitHub Pages](https://pages.github.com/). Also, there is a 5-minute 
+[Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
+video tutorial that your might be helpful. 
