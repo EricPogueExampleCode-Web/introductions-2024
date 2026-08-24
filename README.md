@@ -1,10 +1,21 @@
 # Introductions (2026)
 Follow the instructions below to create your own Introductions webpage using GitHub Pages. 
 
-### Instructions
-##### Step 1: Utilize this repository as a template to create your repository named “introductions” (all lower case).
+### Prerequisites
+- GitHub Account
+- An interest in HTML and CSS
 
-### Step 2: Your newly created repository includes a fine named “index.html” that looks like
+### Instructions
+##### Step 1: Log into your GitHub account in a separate browser tab
+
+##### Step 2: Utilize this repository as a template to create a new repository in your GitHub account named “introductions”:
+- Click on the "Use this template" button on the template repository’s page.
+- Name your repository “introductions” (all lower case).
+- Optionally, add a description.
+- Verify your new repository is public.
+- Click "Create repository from template".
+
+##### Step 3: Verify that your newly created repository includes a fine named “index.html” that looks like
 ```
 <!DOCTYPE html>
 <html>
@@ -73,25 +84,17 @@ Follow the instructions below to create your own Introductions webpage using Git
 </html>
 ```
 
-Step 2: Replace each of the placeholders (like [Your Full Name]) with your personal information. Replace the "[" and "]" as well.  
+Step 3: Replace “[Your Full Name]” with your full name. For example, I would replace “[Your Full Name]” with “Eric Pogue”. Notice that you should also remove the "[" and "]" symbols.
+
+
+Step 4: Replace “[Your Preferred Name]” with your preferred name. For example, I would replace “[Your Preferred Name]” with “Eric”
+Step 
 
 ## Next steps:
 Did you notice that the template fails to style the “Fun Fact” section? Can you fix that?
 
 
 
-### Step 1: Find and Use a Template Repository
-
-#### Search for a Template
-- Go to GitHub and find a repository that's set up as a template for an introductions website or a similar project.
-- Look for repositories with a "template" badge.
-
-#### Create a New Repository from the Template
-- Click on the "Use this template" button on the template repository's page.
-- Name your repository.
-- Optionally, add a description.
-- Choose whether your repository should be public or private.
-- Click "Create repository from template".
 
 ### Step 2: Enable GitHub Pages
 
