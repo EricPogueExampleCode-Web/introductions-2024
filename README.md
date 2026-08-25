@@ -8,9 +8,7 @@ Follow the instructions below to create your own Introductions webpage using Git
 ### Instructions
 
 #### Utilize this repository as a template to create your Introductions website.
-##### Step 1: 
-- Keep this page open.
-- In a separate browser tab, log into your GitHub account.
+##### Step 1: Keep this page open, and log into your GitHub account using a separate browser tab.
 
 ##### Step 2: Utilize this repository as a template to create a new repository in your GitHub account named “introductions”:
 - Click on the "Use this template" button above.
