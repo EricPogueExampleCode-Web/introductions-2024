@@ -2,16 +2,18 @@
 Follow the instructions below to create your own Introductions webpage using GitHub Pages. 
 
 ### Prerequisites
-- GitHub Account
+- A GitHub Account
 - An interest in HTML and CSS
 
 ### Instructions
+#### Utilize this repository as a template to create your Introductions website.
+
 ##### Step 1: 
 - Keep this page open.
 - Log into your GitHub account in a separate browser tab.
 
 ##### Step 2: Utilize this repository as a template to create a new repository in your GitHub account named “introductions”:
-- Click on the "Use this template" button on the template repository’s page.
+- Click on the "Use this template" button above.
 - Name your repository “introductions” (all lower case).
 - Verify your new repository is public.
 
@@ -84,7 +86,8 @@ Follow the instructions below to create your own Introductions webpage using Git
 </html>
 ```
 
-### Step 2: Publish your website with GitHub Pages
+
+### Publish your website with GitHub Pages
 
 #### Repository Settings
 - Go to your GitHub repository in a web browser.
