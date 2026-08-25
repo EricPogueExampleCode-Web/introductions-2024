@@ -6,11 +6,11 @@ Follow the instructions below to create your own Introductions webpage using Git
 - An interest in HTML and CSS
 
 ### Instructions
-#### Utilize this repository as a template to create your Introductions website.
 
+#### Utilize this repository as a template to create your Introductions website.
 ##### Step 1: 
 - Keep this page open.
-- Log into your GitHub account in a separate browser tab.
+- In a separate browser tab, log into your GitHub account.
 
 ##### Step 2: Utilize this repository as a template to create a new repository in your GitHub account named “introductions”:
 - Click on the "Use this template" button above.
@@ -85,84 +85,45 @@ Follow the instructions below to create your own Introductions webpage using Git
 </body>
 </html>
 ```
-
-
-### Publish your website with GitHub Pages
-
-#### Repository Settings
-- Go to your GitHub repository in a web browser.
-- Click on the "Settings" tab, then scroll down to the "GitHub Pages" section.
-
-#### Source Selection
+#### Publish your website with GitHub Pages
+##### Step 4: Update your repository settings:
+- Click on the “Setting” tab above.
+- Scroll down and select the "GitHub Pages" item.
 - Under "Source", select the branch to publish (usually `main` or `master`).
 - Click "Save" to activate GitHub Pages.
 
-### Step 4: Test Your Website
+##### Step 5: Test Your Website
 - Your project site will be available at `https://[username].github.io/[repository-name]/`.
 - For example, my website would be available at `https://ericjpogue.github.io/introductions/`.
 - Replace `[username]` with your GitHub username and `[repository-name]` with your repository name (”introductions”).
 - It may take a few minutes for the site to go live. If it's not immediately available, wait a bit and then refresh.
 
-
-Step 3: Replace “[Your Full Name]” with your full name:
+#### Update the website with your full name
+##### Step 6: Replace “[Your Full Name]” with your full name:
 - For example, I would replace “[Your Full Name]” with “Eric Pogue” (Notice that you should also remove the "[" and "]" symbols)
 - Navigate to your repository's main page on GitHub.
 - Locate the `index.html` file or other files you wish to edit.
-- Click on the file to view it, then click the pencil icon (Edit this file) in the top right to start editing.
-
-Step 4: Replace “[Your Preferred Name]” with your preferred name. 
-
-
-
-## Next steps:
-Did you notice that the template fails to style the “Fun Fact” section? Can you fix that?
-
-
-
-
-
-
-### Step 3: Customize Your Website Directly on GitHub
-
-#### Edit Files on GitHub
-- Navigate to your repository's main page on GitHub.
-- Locate the `index.html` file or other files you wish to edit.
-- Click on the file to view it, then click the pencil icon (Edit this file) in the top right to start editing.
-
-#### Make and Commit Changes
-- After making your changes in the web editor, scroll down to the "Commit changes" section.
-- Enter a commit message that describes your changes.
+- Click on the file to view it and then click the pencil icon (Edit this file) in the top right to start editing.
+- Modify “[Your Full Name]” with your first and last name.
+- After making your changes, scroll down to the "Commit changes" section.
+- Accept the commit message.
 - Choose to commit directly to the main branch.
 - Click "Commit changes".
 
-### Step 4: Accessing Your Website
+##### Step 7: Test your website using the same steps identified in Step 5. 
 
-- Your project site will be available at `https://[username].github.io/[repository-name]/`.
-- Replace `[username]` with your GitHub username and `[repository-name]` with your repository name.
-- It may take a few minutes for the site to go live. If it's not immediately available, wait a bit and then refresh.
+#### Repeat steps 6 and 7 over and over until all placeholders have been replaced with your informaiton (i.e. “[Your Preferred Name]”). 
+Note you can change as many or few of the placeholders as you would like before committing and testing the changes. However, you should
+always test after the last change. 
 
-### Step 5: Update Your Site
-
-- To update your site, repeat the process in Step 3: edit files and commit changes directly on GitHub.
-- GitHub Pages will automatically update your site with these changes.
-
-### Additional Notes
-
-- GitHub Pages supports only static content.
-- Public repositories mean all source code is publicly visible.
-
-### Step 6: Update README.md File
-
-- Remove all of the text in your README.md file.
+## Next steps:
+= Additional GitHub Page information can be found at [GitHub Pages](https://pages.github.com/). Also, there is a 5-minute 
+[Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
+video tutorial that your might be helpful. 
+- Did you notice that the template fails to style the “Fun Fact” section? Can you fix that?
+- Replace all README.md file contents with something appropriate.
 
 ### Credits:
 Eric Pogue with the help of ChatGPT created this repository as a template for your "Introductions" website.
 - Add your application name and add yourself as the Author.
 - Add credits for Eric Pogue, ChatGPT, and for this site where you utilized the template.
-
-
-Eric Pogue with the help of ChatGPT created this repository as a template for your "Introductions" website.
-
-Additional GitHub Page information can be found at [GitHub Pages](https://pages.github.com/). Also, there is a 5-minute 
-[Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
-video tutorial that your might be helpful. 
